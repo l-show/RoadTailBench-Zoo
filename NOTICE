@@ -1,0 +1,5 @@
+RoadTailBench-Zoo is an independent Apache-2.0 model adapter project.
+
+This repository does not vendor Bench2DriveZoo code licensed under CC BY-NC-ND 4.0. Model-specific adapters should import upstream projects from user-provided local paths or installed packages.
+
+Model checkpoints are not distributed in this repository and may have separate licenses.

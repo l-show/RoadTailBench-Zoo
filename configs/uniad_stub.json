@@ -1,0 +1,6 @@
+{
+  "adapter": "roadtailbench_zoo.adapters.uniad:UniADAdapter",
+  "upstream_repo": "external",
+  "checkpoint_path": "G:/Codex/RoadTailBench-Zoo/checkpoints/uniad",
+  "status": "stub_no_bench2drivezoo_code_vendored"
+}

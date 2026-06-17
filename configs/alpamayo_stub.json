@@ -1,0 +1,6 @@
+{
+  "adapter": "roadtailbench_zoo.adapters.alpamayo:AlpamayoAdapter",
+  "upstream_repo": "https://github.com/NVlabs/alpamayo",
+  "checkpoint_path": "G:/Codex/RoadTailBench-Zoo/checkpoints/alpamayo",
+  "status": "stub_until_model_specific_preprocessing_is_implemented"
+}

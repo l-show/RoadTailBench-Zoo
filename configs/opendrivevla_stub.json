@@ -1,0 +1,6 @@
+{
+  "adapter": "roadtailbench_zoo.adapters.opendrivevla:OpenDriveVLAAdapter",
+  "upstream_repo": "https://github.com/DriveVLA/OpenDriveVLA",
+  "checkpoint_path": "G:/Codex/RoadTailBench-Zoo/checkpoints/opendrivevla",
+  "status": "stub_waiting_for_upstream_inference_release"
+}

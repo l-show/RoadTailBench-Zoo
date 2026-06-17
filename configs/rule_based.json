@@ -1,0 +1,6 @@
+{
+  "adapter": "roadtailbench_zoo.adapters.rule_based:RuleBasedAdapter",
+  "target_speed_mps": 8.0,
+  "k_steer": 0.8,
+  "k_speed": 0.25
+}
